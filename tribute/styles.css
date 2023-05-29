@@ -1,0 +1,62 @@
+*{
+  background-color: #dfdfe2;
+}
+
+#topic{
+  margin: auto;
+  padding-left: 40%;
+}
+
+#title{
+  font-size: 50;
+  margin: 0px;
+
+}
+
+#title-caption{
+  font-style: italic;
+  padding: 0px;
+  margin: 0px;
+  margin-left: 5%;
+}
+
+
+
+#image{
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.image-container {
+      display: flex;
+      align-items: center;
+    }
+
+.image-container {
+      display: flex;
+      align-items: center;
+    }
+
+p {
+    font-family: Verdana, Geneva, sans-serif;
+    }
+
+#more-info{
+  font-size: 20;
+  color:blue;
+}
+
+a:hover{
+  color: green;
+}
+
+a:active{
+  color: rgb(277,256,125);
+}
+
+a{
+  color: #17e1f7;
+}
